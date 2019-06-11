@@ -27,10 +27,15 @@ Membro da equipe desde 2016, entrou como desenvolvedor de projetos eletrônicos 
 [**Informações sobre a categoria SSL/F180**](https://github.com/RoboCup-SSL)
 
 [**Projeto Brennand**](https://github.com/maracatronics/Armorial-Brennand)
+
 [**Projeto Samico**]()
+
 [**Maracatronics SSL Team Description Paper - 2017**](http://sistemaolimpo.org/midias/uploads/38fb43a47bffa7dfc8e831bbf40c893d.pdf)
+
 [**Maracatronics SSL Team Description Paper - 2018**](http://sistemaolimpo.org/midias/uploads/8a20125dc762a66d56fe0498725b3781.pdf)
+
 **Projeto Mecânico**
+
 **Projeto Eletrônico**
 
 
