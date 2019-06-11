@@ -26,18 +26,19 @@ Membro da equipe desde 2016, entrou como desenvolvedor de projetos eletrônicos 
 
 [**Informações sobre a categoria SSL/F180**](https://github.com/RoboCup-SSL)
 
-**Projeto Brennand**
-**Projeto Samico**
-**Maracatronics SSL Team Description Paper - 2017**
-**Maracatronics SSL Team Description Paper - 2018**
+[**Projeto Brennand**](https://github.com/maracatronics/Armorial-Brennand)
+[**Projeto Samico**]()
+[**Maracatronics SSL Team Description Paper - 2017**](http://sistemaolimpo.org/midias/uploads/38fb43a47bffa7dfc8e831bbf40c893d.pdf)
+[**Maracatronics SSL Team Description Paper - 2018**](http://sistemaolimpo.org/midias/uploads/8a20125dc762a66d56fe0498725b3781.pdf)
 **Projeto Mecânico**
 **Projeto Eletrônico**
 
 
 ### Coordenação Estadual da Olimpíada Brasileira de Robótica em Pernambuco - Maracatronics 
+
 Membro da Coordenação Estadual da OBR desde  2017, ano em que a Maracatronics passou a ser a representante estadual em Pernambuco. Desde então atua como juiz chefe em eventos regionais e estaduais.
 
-**Vídeo Promocional OBR 2017**
+[**Vídeo Promocional OBR 2017**](https://youtu.be/mqgVMAENG74)
 
 
 ### ARena - Maracatronics + Voxar Labs
