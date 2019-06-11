@@ -46,4 +46,4 @@ Membro da Coordenação Estadual da OBR desde  2017, ano em que a Maracatronics 
 ### Robotino @Petrobrás
 
 
-Este texto foi criado com ❤️ por [**Pedro Jorge**], sinta-se à vontade para tirar dúvidas através do email **pjls2@cin.ufpe.br** ou através de redes sociais.
+Este texto foi criado com ❤️ por **Pedro Jorge**, sinta-se à vontade para tirar dúvidas através do email **pjls2@cin.ufpe.br** ou através de redes sociais.
