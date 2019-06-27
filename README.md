@@ -51,11 +51,11 @@ Membro da Coordenação Estadual da OBR desde 2017, ano em que a Maracatronics p
 O projeto ARena consiste em uma aplicação de projection mapping para auxiliar na construção das arenas de competição da OBR. Com a utilização de um projetor, é possivel mapear os quantro cantos do tabalado onde a arena será montada e assim projetar um desenho da pista. Após isso, basta passar a fita e marcar a posição dos elementos. A utilização desta ferramenta diminuiu consideravelmente o tempo de produção das arenas de competição. O projeto foi uma parceria entre a Maracatronics e o Voxar Labs e está no [respositório](https://github.com/maracatronics/ARena) da Maracatronics.
 
 Autores: Pedro Jorge Silva, Diogo Henriques, Júlia Dias, Gustavo Lima, João Marcelo Teixeira, Veronica Teichrieb.
-<img align="right" width="280" src="images/ARena1.jpg" alt="Imagem de utilização do ARena" />
 
-<img align="right" width="280" src="images/ARena2.jpg" alt="Imagem de utilização do ARena" />
+![Imagem de utilização do ARena](images/ARena1.jpg)
+![Imagem de utilização do ARena](images/ARena2.jpg)
+![Imagem de utilização do ARena](images/ARena3.jpg)
 
-<img align="right" width="280" src="images/ARena3.jpg" alt="Imagem de utilização do ARena" />
 
 
 ### Robotino @Petrobrás
