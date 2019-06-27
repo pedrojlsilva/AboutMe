@@ -52,9 +52,9 @@ O projeto ARena consiste em uma aplicação de projection mapping para auxiliar 
 
 Autores: Pedro Jorge Silva, Diogo Henriques, Júlia Dias, Gustavo Lima, João Marcelo Teixeira, Veronica Teichrieb.
 
-![Imagem de utilização do ARena](images/ARena1.jpg)
-![Imagem de utilização do ARena](images/ARena2.jpg)
-![Imagem de utilização do ARena](images/ARena3.jpg)
+![Imagem de utilização do ARena](images/Arena1.jpg)
+![Imagem de utilização do ARena](images/Arena2.jpg)
+![Imagem de utilização do ARena](images/Arena3.jpg)
 
 
 
