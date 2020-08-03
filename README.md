@@ -16,6 +16,8 @@ Currently develops research related to computer vision, robotics, control algori
 
 Likes coffee and doesn't dispense a game of volleyball or a hamburger.
 
+![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrojlsilva) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojlsilva&layout=compact)
+
 
 ## Projetos
 
