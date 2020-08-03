@@ -18,7 +18,7 @@ Likes coffee and doesn't dispense a game of volleyball or a hamburger.
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrojlsilva) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojlsilva&layout=compact)
 
-![GitHub Followers](https://img.shields.io/github/followers/pedrojlsilva?style=social) [![Follor me on Twitter](https://img.shields.io/twitter/follow/PedroJorgeS1?style=social)](https://twitter.com/PedroJorgeS1) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=www.linkedin.com/in/pedrojlsilva)](www.linkedin.com/in/pedrojlsilva)
+![GitHub Followers](https://img.shields.io/github/followers/pedrojlsilva?style=social) [![Follor me on Twitter](https://img.shields.io/twitter/follow/PedroJorgeS1?style=social)](https://twitter.com/PedroJorgeS1) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedrojlsilva)](https://www.linkedin.com/in/pedrojlsilva)
 
 
 ## Projetos
